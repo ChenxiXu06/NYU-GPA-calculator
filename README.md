@@ -23,11 +23,11 @@ The NYU GPA Calculator allows users to input their course grades and credits to 
 1. Run the GPA calculator scripts:
    - For single semester GPA:
      ```bash
-     python file1.py
+     gpa_single_semester.py
      ```
    - For multiple semesters GPA:
      ```bash
-     python file2.py
+     gpa_multiple_semester.py
      ```
 2. Follow the prompts to enter your course grades and credits.
 
